@@ -1,0 +1,393 @@
+
+SEARCH
+
+Start location: Veverská Bítýška
+End location: Egham
+Date range: 20/09/2022-26/09/2022
+
+------------------
+
+
+Result 1 -------------
+
+Departure 2022-09-26 14:21:00 UTC
+Arrival 2022-09-27 04:48:00 UTC
+Flying through: Katowice KTW and London STN
+Cost of the airplane ticket: 14EUR
+
+Transport to the airport:
+  1 - 4:21pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 4:46pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 5:20pm - Brno Benesova - FlixBus (Bus)
+  4 - 9:26pm - Katowice Plac Wolności - KZK GOP (Bus)
+  5 - 10:34pm - Szkoła - KZK GOP (Bus)
+
+Transport from the airport:
+  1 - 2:50am - Stansted Airport Coach Station - National Express (Intercity bus)
+  2 - 4:12am - Liverpool Street Station - Transport for London (Bus)
+  3 - 5:06am - Clapham Junction - South Western Railway (Train)
+
+
+Result 2 -------------
+
+Departure 2022-09-20 20:13:00 UTC
+Arrival 2022-09-21 10:27:00 UTC
+Flying through: Katowice KTW and London STN
+Cost of the airplane ticket: 14EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 11:59pm - Brno Benesova - FlixBus (Bus)
+  4 - 4:05am - Katowice Plac Wolności - KZK GOP (Bus)
+  5 - 4:43am - Dąbrówka Wielka Megaset [nż] - KZK GOP (Bus)
+  6 - 5:25am - Szkoła - KZK GOP (Bus)
+
+Transport from the airport:
+  1 - 9:27am - Stansted Airport - Greater Anglia (Train)
+  2 - 10:08am - Tottenham Hale - Transport for London (Subway)
+  3 - 10:35am - Victoria Station - Southern (Train)
+  4 - 10:58am - Clapham Junction - South Western Railway (Train)
+
+
+Result 3 -------------
+
+Departure 2022-09-19 20:13:00 UTC
+Arrival 2022-09-20 10:57:00 UTC
+Flying through: Katowice KTW and London LTN
+Cost of the airplane ticket: 16EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 11:59pm - Brno Benesova - FlixBus (Bus)
+  4 - 4:05am - Katowice Plac Wolności - KZK GOP (Bus)
+  5 - 4:43am - Dąbrówka Wielka Megaset [nż] - KZK GOP (Bus)
+  6 - 5:25am - Szkoła - KZK GOP (Bus)
+
+Transport from the airport:
+  1 - 10:05am - Airport - Arriva in Beds and Bucks (Intercity bus)
+  2 - 11:00am - Finchley Road & Frognal - Overground (Commuter train)
+  3 - 11:36am - Richmond - South Western Railway (Train)
+
+
+Result 4 -------------
+
+Departure 2022-09-22 11:21:00 UTC
+Arrival 2022-09-23 02:05:35 UTC
+Flying through: Katowice KTW and London LTN
+Cost of the airplane ticket: 16EUR
+
+Transport to the airport:
+  1 - 1:21pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 1:46pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 2:21pm - Hlavní nádraží - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  4 - 2:45pm - Brno Zvonařka - Vital euro trans (Bus)
+  5 - 6:32pm - Katowice Plac Wolności - KZK GOP (Bus)
+  6 - 7:46pm - Świerklaniec Park - KZK GOP (Bus)
+  7 - 8:19pm - Mierzęcice Osiedle - KZK GOP (Bus)
+
+Transport from the airport:
+  1 - 11:59pm - Airport - National Express (Intercity bus)
+  2 - 1:42am - Paddington Station - GWR (Train)
+  3 - 2:27am - Slough - First Berkshire & The Thames Valley (Bus)
+
+
+Result 5 -------------
+
+Departure 2022-09-20 20:13:00 UTC
+Arrival 2022-09-21 10:57:00 UTC
+Flying through: Katowice KTW and London LTN
+Cost of the airplane ticket: 16EUR
+
+Transport to the airport:
+  1 - 10:13pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 10:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 11:59pm - Brno Benesova - FlixBus (Bus)
+  4 - 4:05am - Katowice Plac Wolności - KZK GOP (Bus)
+  5 - 4:43am - Dąbrówka Wielka Megaset [nż] - KZK GOP (Bus)
+  6 - 5:25am - Szkoła - KZK GOP (Bus)
+
+Transport from the airport:
+  1 - 10:05am - Airport - Arriva in Beds and Bucks (Intercity bus)
+  2 - 11:00am - Finchley Road & Frognal - Overground (Commuter train)
+  3 - 11:36am - Richmond - South Western Railway (Train)
+
+
+Result 6 -------------
+
+Departure 2022-09-19 19:13:00 UTC
+Arrival 2022-09-20 10:57:00 UTC
+Flying through: Wrocław WRO and London LTN
+Cost of the airplane ticket: 20EUR
+
+Transport to the airport:
+  1 - 9:13pm - Veverská Bítýška, náměstí - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 9:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 10:50pm - Brno Benesova - FlixBus (Bus)
+  4 - 3:15am - Katowice Sądowa - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 10:05am - Airport - Arriva in Beds and Bucks (Intercity bus)
+  2 - 11:00am - Finchley Road & Frognal - Overground (Commuter train)
+  3 - 11:36am - Richmond - South Western Railway (Train)
+
+
+Result 7 -------------
+
+Departure 2022-09-20 11:51:00 UTC
+Arrival 2022-09-20 20:49:00 UTC
+Flying through: Vienna VIE and London LGW
+Cost of the airplane ticket: 20EUR
+
+Transport to the airport:
+  1 - 1:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 2:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:00pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 8:33pm - Gatwick Airport - Southern (Train)
+  2 - 9:08pm - Clapham Junction - South Western Railway (Train)
+  3 - 9:36pm - Feltham - South Western Railway (Train)
+
+
+Result 8 -------------
+
+Departure 2022-09-21 11:51:00 UTC
+Arrival 2022-09-21 20:49:00 UTC
+Flying through: Vienna VIE and London LGW
+Cost of the airplane ticket: 20EUR
+
+Transport to the airport:
+  1 - 1:51pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 2:16pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 3:00pm - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 8:33pm - Gatwick Airport - Southern (Train)
+  2 - 9:08pm - Clapham Junction - South Western Railway (Train)
+  3 - 9:36pm - Feltham - South Western Railway (Train)
+
+
+Result 9 -------------
+
+Departure 2022-09-20 05:00:00 UTC
+Arrival 2022-09-20 12:57:00 UTC
+Flying through: Vienna VIE and London LGW
+Cost of the airplane ticket: 20EUR
+
+Transport to the airport:
+  1 - 7:00am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 7:31am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 8:10am - Brno Benesova - Gepard Express (Bus)
+
+Transport from the airport:
+  1 - 12:54pm - Gatwick Airport - Southern (Train)
+  2 - 1:28pm - Clapham Junction - South Western Railway (Train)
+
+
+Result 10 -------------
+
+Flying through: Katowice KTW and London LTN
+Cost of the airplane ticket: 20EUR
+
+Transport to the airport:
+Couldn't find transportation to the airport for this flight.
+
+
+Transport from the airport:
+  1 - 11:05pm - Airport - Arriva in Beds and Bucks (Intercity bus)
+  2 - 12:25am - Victoria Station - Southern (Train)
+  3 - 12:38am - Clapham Junction - South Western Railway (Train)
+  4 - 1:11am - Hounslow - South Western Railway (Train)
+
+
+Result 11 -------------
+
+Departure 2022-09-21 03:45:00 UTC
+Arrival 2022-09-21 12:57:00 UTC
+Flying through: Vienna VIE and London LGW
+Cost of the airplane ticket: 20EUR
+
+Transport to the airport:
+  1 - 5:45am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 6:16am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 6:55am - Brno Benesova - FlixBus (Bus)
+  4 - 8:59am - Erdberg - Wiener Linien (Subway)
+  5 - 9:07am - Landstraße - CAT - CityAirportTrain (Train)
+
+Transport from the airport:
+  1 - 12:54pm - Gatwick Airport - Southern (Train)
+  2 - 1:28pm - Clapham Junction - South Western Railway (Train)
+
+
+Result 12 -------------
+
+Departure 2022-09-24 16:21:00 UTC
+Arrival 2022-09-25 11:20:00 UTC
+Flying through: Katowice KTW and London LTN
+Cost of the airplane ticket: 20EUR
+
+Transport to the airport:
+  1 - 6:21pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 6:42pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 7:55pm - Brno Benesova - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 10:15am - Airport - London General (Bus)
+  2 - 10:31am - Luton Airport Parkway - Thameslink (Train)
+  3 - 11:17am - West Hampstead - Overground (Commuter train)
+  4 - 11:59am - Richmond - South Western Railway (Train)
+
+
+Result 13 -------------
+
+Departure 2022-09-20 18:21:00 UTC
+Arrival 2022-09-21 03:45:35 UTC
+Flying through: Brno BRQ and London STN
+Cost of the airplane ticket: 22EUR
+
+Transport to the airport:
+  1 - 8:21pm - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 8:42pm - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 9:30pm - Hlavní nádraží - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+
+Transport from the airport:
+  1 - 12:45am - Stansted Airport Coach Station - National Express (Intercity bus)
+  2 - 2:16am - Fairfax Road (Stop P) - Transport for London (Bus)
+  3 - 2:52am - Phillimore Gardens (Stop T) - Transport for London (Bus)
+  4 - 4:13am - Heathrow Terminal 5 - First Berkshire & The Thames Valley (Bus)
+
+
+Result 14 -------------
+
+Departure 2022-09-22 19:13:00 UTC
+Arrival 2022-09-23 14:58:00 UTC
+Flying through: Wrocław WRO and London STN
+Cost of the airplane ticket: 22EUR
+
+Transport to the airport:
+  1 - 9:13pm - Veverská Bítýška, náměstí - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 9:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 10:50pm - Brno Benesova - FlixBus (Bus)
+  4 - 3:15am - Katowice Sądowa - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 1:57pm - Stansted Airport - Greater Anglia (Train)
+  2 - 2:37pm - Tottenham Hale - Transport for London (Subway)
+  3 - 3:05pm - Victoria Station - Southern (Train)
+  4 - 3:28pm - Clapham Junction - South Western Railway (Train)
+
+
+Result 15 -------------
+
+Departure 2022-09-22 06:21:00 UTC
+Arrival 2022-09-22 22:19:00 UTC
+Flying through: Wrocław WRO and London STN
+Cost of the airplane ticket: 22EUR
+
+Transport to the airport:
+  1 - 8:21am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 8:46am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 9:50am - Brno Benesova - FlixBus (Bus)
+  4 - 2:45pm - Kraków, Dworzec Autobusowy MDA - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 9:15pm - Stansted Airport - Greater Anglia (Train)
+  2 - 9:54pm - Tottenham Hale - Transport for London (Subway)
+  3 - 10:26pm - Vauxhall - South Western Railway (Train)
+
+
+Result 16 -------------
+
+Departure 2022-09-24 19:13:00 UTC
+Arrival 2022-09-25 11:20:00 UTC
+Flying through: Wrocław WRO and London STN
+Cost of the airplane ticket: 22EUR
+
+Transport to the airport:
+  1 - 9:13pm - Veverská Bítýška, náměstí - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 9:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 10:50pm - Brno Benesova - FlixBus (Bus)
+  4 - 3:15am - Katowice Sądowa - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 10:12am - Stansted Airport - Greater Anglia (Train)
+  2 - 10:52am - Tottenham Hale - Transport for London (Subway)
+  3 - 11:43am - Vauxhall - South Western Railway (Train)
+
+
+Result 17 -------------
+
+Departure 2022-09-20 06:21:00 UTC
+Arrival 2022-09-21 04:05:35 UTC
+Flying through: Wrocław WRO and London STN
+Cost of the airplane ticket: 22EUR
+
+Transport to the airport:
+  1 - 8:21am - Vev. Bítýška, Nám. - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 8:46am - Přístaviště - IDS JMK (Data from: KORDIS JMK, DPMB) (Tram)
+  3 - 9:50am - Brno Benesova - FlixBus (Bus)
+  4 - 2:45pm - Kraków, Dworzec Autobusowy MDA - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 1:25am - Stansted Airport Coach Station - National Express (Intercity bus)
+  2 - 3:08am - Marble Arch (Stop O) - Transport for London (Bus)
+  3 - 3:34am - Paddington Station - GWR (Train)
+  4 - 4:27am - Slough - First Berkshire & The Thames Valley (Bus)
+
+
+Result 18 -------------
+
+Departure 2022-09-25 19:13:00 UTC
+Arrival 2022-09-26 14:58:00 UTC
+Flying through: Wrocław WRO and London STN
+Cost of the airplane ticket: 22EUR
+
+Transport to the airport:
+  1 - 9:13pm - Veverská Bítýška, náměstí - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 9:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 10:50pm - Brno Benesova - FlixBus (Bus)
+  4 - 3:15am - Katowice Sądowa - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 1:57pm - Stansted Airport - Greater Anglia (Train)
+  2 - 2:37pm - Tottenham Hale - Transport for London (Subway)
+  3 - 3:05pm - Victoria Station - Southern (Train)
+  4 - 3:28pm - Clapham Junction - South Western Railway (Train)
+
+
+Result 19 -------------
+
+Departure 2022-09-20 19:13:00 UTC
+Arrival 2022-09-21 10:57:00 UTC
+Flying through: Wrocław WRO and London LTN
+Cost of the airplane ticket: 22EUR
+
+Transport to the airport:
+  1 - 9:13pm - Veverská Bítýška, náměstí - IDS JMK (Data from: KORDIS JMK, DPMB) (Bus)
+  2 - 9:41pm - Kuřim - IDS JMK (Data from: KORDIS JMK, DPMB) (Train)
+  3 - 10:50pm - Brno Benesova - FlixBus (Bus)
+  4 - 3:15am - Katowice Sądowa - FlixBus (Bus)
+
+Transport from the airport:
+  1 - 10:05am - Airport - Arriva in Beds and Bucks (Intercity bus)
+  2 - 11:00am - Finchley Road & Frognal - Overground (Commuter train)
+  3 - 11:36am - Richmond - South Western Railway (Train)
+
+
+Result 20 -------------
+
+Flying through: Katowice KTW and London LTN
+Cost of the airplane ticket: 22EUR
+
+Transport to the airport:
+Couldn't find transportation to the airport for this flight.
+
+
+Transport from the airport:
+  1 - 10:05am - Airport - Arriva in Beds and Bucks (Intercity bus)
+  2 - 11:07am - Baker Street Station - Transport for London (Subway)
+  3 - 11:25am - Paddington Station - Heathrow Express (Train)
+  4 - 12:00pm - Heathrow Terminal 5 - First Berkshire & The Thames Valley (Bus)
+
